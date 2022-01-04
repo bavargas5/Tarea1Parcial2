@@ -14,7 +14,19 @@ Específicos:
 
 ## MARCO TEÓRICO (RESUMEN)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBV/1.png)
+
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+**CAPITULO 7
+
+1. Visualice y trace las siguientes combinaciones en serie-paralelo:
+
+a) R1 en serie con la combinación en paralelo de R2 y R3
+
+
+
+**CAPITULO 8
 
 ## VIDEO
 
