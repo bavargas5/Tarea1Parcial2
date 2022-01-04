@@ -458,19 +458,43 @@ Analizamos las corrientes que nos salieron en este caso
 
 **13. Determine el voltaje del punto A al punto B en la figura 8-73.**
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q1.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R1_1.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R1_2.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R1_3.JPG)
 
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q2_1.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q2_2.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R2_1.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R2_2.JPG)
 
 **17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura**
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q3.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R3_1.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R3_2.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R3_3.JPG)
 
 **21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81**
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q4.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_1.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_2.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_3.JPG)
 
 **23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL**
 
