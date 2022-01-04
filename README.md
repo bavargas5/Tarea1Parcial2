@@ -20,7 +20,9 @@ Específicos:
 
 **CAPITULO 8**
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T%20Thevenin.png)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T%20NORTON.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
