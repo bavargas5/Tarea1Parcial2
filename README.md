@@ -121,3 +121,9 @@ Combinación en paralelo de R1 con la combinación en paralelo de R2 y R3, y en 
 ## BIBLIOGRAFÍA
 
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
+- Leyes de kirchhoff. (s. f.). eduMedia. Recuperado 3 de enero de 2022, de https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff#:%7E:text=La%20ley%20de%20nodos%20o,cerrado%20es%20igual%20a%20cero.
+
+- M. (2021, 16 abril). Circuito Mixto. Definición y ejemplos. MiElectrónicaFácil.com. Recuperado 3 de enero de 2022, de https://mielectronicafacil.com/analisis-de-circuitos/circuito-mixto/
+
+- Teorema de superposición. (s. f.). innovacionumh. Recuperado 3 de enero de 2022, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
