@@ -472,6 +472,8 @@ Analizamos las corrientes que nos salieron en este caso
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q2_2.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_G2.JPG)
+
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R2_1.JPG)
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R2_2.JPG)
@@ -484,32 +486,23 @@ Analizamos las corrientes que nos salieron en este caso
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R3_2.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_G3_1.JPG)
+
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R3_3.JPG)
 
 **21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81**
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_Q4.JPG)
 
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_G4_1.JPG)
+
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_1.JPG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_G4_2.JPG)
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_2.JPG)
 
 ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMG/T1_P2_R4_3.JPG)
-
-**23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL**
-
-
-
-**25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78**
-
-
-
-**27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL**
-
-
-
-**29. Aplique el teorema de Norton al circuito de la figura 8-84**
-
 
 
 ## VIDEO
