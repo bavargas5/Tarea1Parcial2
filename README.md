@@ -490,6 +490,8 @@ Analizamos las corrientes que nos salieron en este caso
 
 ## VIDEO
 
+https://youtu.be/H6R6j1KZMVA
+
 ## CONCLUSIONES
 
 -	En conclusión, un circuito serie-paralelo es aquel compuesto tanto por circuitos en serie como paralelo los cuales traban conjuntamente y a los cuales se aplica un determinado proceso.
