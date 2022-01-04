@@ -3,8 +3,11 @@
 ## OBJETIVOS
 
 General
+
 -	Analizar circuitos en serie-paralelo y los teoremas de circuitos y conversiones para posteriormente aplicar estos conocimientos en la resolución de ejercicios.
+
 Específicos:
+
 -	Interpretar circuitos en serie-paralelo
 -	Aplicar los métodos de resolución de circuitos mixtos aprendidos.
 -	Utilizar los teoremas aprendidos para la resolución de ejercicios.
