@@ -363,7 +363,95 @@ Entonces concluimos que el multímetro no esta marcando correctamente por lo cua
 
 **CAPITULO 8**
 
+**1. Una fuente de voltaje tiene los valores VS =300 V y RS =50 Ω. Conviértala en una fuente de corriente Equivalente
+Como tenemos los datos de VS =300 V y RS =50 Ω , buscaremos la corriente equivalente**
 
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/50.PNG)
+
+**3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?**
+Usamos la ley de ohm
+
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/51.PNG)
+ 
+ Transformando a otras unidades
+
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/52.PNG)
+ 
+ 
+**5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kΩ. Conviértala en una fuente de voltaje equivalente.**
+
+
+Usaremos la ley de ohm
+
+  ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/53.PNG)
+  
+  7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+  
+   ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/54.PNG) 
+  
+  Reemplazaremos uno de los dos voltajes con un corto circuito en este caso V=3V
+  
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/55.PNG) 
+
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/56.PNG) 
+ 
+ Como ya tenemos las 3 ecuaciones en este caso usaremos una calculadora para resolver mucho más rápido las 3 ecuaciones que tenemos 
+ 
+ 
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/57.PNG)
+ 
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/58.PNG)
+ 
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/59.PNG)
+ 
+ 
+ La corriente que pasa por la R5 es 0.18 mA
+ 
+  Ahora nos toca el otro
+  
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/60.PNG)
+
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/61.PNG)
+ 
+ 
+ Como ya tenemos las 3 ecuaciones en este caso usaremos una calculadora para resolver mucho más rápido las 3 ecuaciones que tenemos
+ 
+ 
+ ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/62.PNG) 
+ 
+ 
+  ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/63.PNG)
+ 
+ La corriente en R5 es 0.67 mA aproximando
+
+Analizaremos las dos corrientes que tenemos por el método de superposición
+
+  ![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/64.PNG)
+
+
+ Y esa es la corriente que circula por la IR5=0.85 mA
+
+**9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/65.PNG)
+
+Como vamos a usar el teorema de superposición, en este caso elegiremos la I=100 mA y la reemplazaremos con un corto
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/66.PNG)
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/67.PNG)
+
+
+
+Ahora con el V=20V
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/68.PNG)
+
+Analizamos las corrientes que nos salieron en este caso
+
+
+![](https://github.com/bavargas5/Tarea1Parcial2/blob/main/IMGBN/69.PNG)
 
 ## VIDEO
 
