@@ -120,4 +120,4 @@ Combinación en paralelo de R1 con la combinación en paralelo de R2 y R3, y en 
 
 ## BIBLIOGRAFÍA
 
-
+- Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
